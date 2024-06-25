@@ -1,0 +1,17 @@
+{
+    "phishing": [
+        {"question": "What is phishing?", "answer": "A type of cyber attack"},
+        {"question": "How do phishing attacks typically occur?", "answer": "Through email or messaging apps"},
+        {"question": "What should you do if you receive a suspicious email?", "answer": "Do not click on links or provide personal information"}
+    ],
+    "password_security": [
+        {"question": "What is a strong password?", "answer": "A password that is at least 12 characters long and includes uppercase and lowercase letters, numbers, and special characters"},
+        {"question": "How often should you change your password?", "answer": "Every 60-90 days"},
+        {"question": "What should you avoid using as a password?", "answer": "Common words or phrases, or easily guessable information"}
+    ],
+    "data_protection": [
+        {"question": "What is data protection?", "answer": "The practice of protecting sensitive information from unauthorized access"},
+        {"question": "Why is data protection important?", "answer": "To prevent identity theft and financial loss"},
+        {"question": "How can you protect sensitive data?", "answer": "By using encryption and secure storage"}
+    ]
+}
